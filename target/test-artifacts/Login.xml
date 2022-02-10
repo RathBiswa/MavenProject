@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="8.3">
+    <testcase classname="As a user of parasoft application" name="Verify existing user are able to login to parasoft application" time="8.155">
+        <system-out><![CDATA[Given an existing user launches parasoft application........................passed
+When user enters the login details..........................................passed
+Then user is navigated to home screen.......................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
